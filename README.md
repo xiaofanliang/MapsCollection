@@ -40,28 +40,30 @@ Connections between Mentors and Mentees (Proteges) in Santa Fe (from Spatial Net
 
 Flight connections between airports that have a degree of 3 in the world (from Spatial Network Class)
 <p align="left">
-  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/flows_degree_3.png", width="600", height="300"/>
+  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/flows_degree_3.png", width="600", height="500"/>
 <p>
 
 Isochrones of flights from ATL by flight time (from Spatial Network Class). Isochrones are created by connecting the airports reached in the same amount of flight time and create a convex hull of the area. 
 <p align="left">
-  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/ischrones.png", width="400", height="300"/>
+  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/ischrones.png", width="500", height="500"/>
 <p>
   
 MSAs modularized by commuter flows in United States. (from Spatial Network Class). 
 <p align="left">
-  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/MSA_modules.png", width="400", height="300"/>
+  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/MSA_modules.png", width="500", height="500"/>
 <p>
 
 ## R with "Cartography" package 
 Mafia members' connections by degree (from Spatial Network Class)
 <p align="left">
-  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/mafia_degree.png", width="400", height="300"/>
+  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/mafia_degree.png", width="500", height="500"/>
 <p>
 
 ## R with Leaflet and Interactive Web Map 
-Commuting Patterns in Georgia (as a respond to COVID-19)
-
+Commuting Patterns in Georgia (as a respond to COVID-19). Click [here]https://friendlycities-gatech.github.io/commuting_ga/ to access the interactive map. 
+<p align="left">
+  <img src="https://github.com/xiaofanliang/MapsCollection/blob/master/Leaflet_Web_Map.png", width="500", height="500"/>
+<p>
  
   
  
